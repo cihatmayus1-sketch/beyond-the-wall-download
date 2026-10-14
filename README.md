@@ -21,6 +21,8 @@ Birinci şahıs, tek daireli, seslerle korku oyunu. 7 gece. Duvarın ardındaki 
 | Sol tık / E | Etkileşim (al, bırak, incele) |
 | Sol tık basılı + fare | Sürükleyerek aç (perde, musluk, fiş, çekmece, kapı, buzdolabı) |
 | Q / sağ tık | Elindekini yerine geri koy |
+| Space | Uyanınca doğrul |
+| W A S D / fare | Ruh tahtasında cevap (YES üst, NO alt, MAYBE sol, GOODBYE sağ) |
 | Tab | Kurallar defteri ve mesajlar |
 | ESC | Duraklat / ayarlar |
 | F11 ya da Alt+Enter | Tam ekran |
@@ -29,4 +31,4 @@ Kulaklık tavsiye edilir. Dil (EN / TR): ana menü → Ayarlar.
 
 ## Not
 
-Bu bir erken sürümdür (0.2.0). Bazı dokular ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler ve 3D modeller CC0 lisanslıdır; ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
+Bu bir erken sürümdür (0.3.0). Bazı dokular ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler ve 3D modeller CC0 lisanslıdır; ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
