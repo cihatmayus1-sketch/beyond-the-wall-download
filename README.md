@@ -18,6 +18,7 @@ Birinci şahıs, tek daireli, seslerle korku oyunu. Nakliye kamyonu gelmeden ön
 |---|---|
 | W A S D / ok tuşları | Yürü |
 | Fare | Etrafa bak |
+| F | Fener aç / kapat |
 | Sol tık / E | Etkileşim (al, bırak, incele, kapıyı aç/kapat) |
 | 1 / 2 ya da fare | Ev işinde iki seçenekten birini seç |
 | Sol tık basılı + fare | Sürükleyerek aç (perde, musluk, fiş, çekmece, buzdolabı, sandık) |
@@ -33,4 +34,4 @@ Kulaklık tavsiye edilir. Dil (EN / TR): ana menü → Ayarlar.
 
 ## Not
 
-Bu bir erken sürümdür (0.5.0). Bazı dokular, görseller ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler ve 3D modeller CC0 lisanslıdır; ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
+Bu bir erken sürümdür (0.6.0). Bazı dokular, görseller ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler ve 3D modeller CC0 lisanslıdır; ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
