@@ -1,8 +1,8 @@
 # Beyond the Wall / Duvarın Ardı
 
-Birinci şahıs, tek daireli, seslerle korku oyunu. 7 gece. Duvarın ardındaki sesleri dinle, neyin yanlış olduğunu fark et ve doğru tepkiyi ver.
+Birinci şahıs, tek daireli, seslerle korku oyunu. Nakliye kamyonu gelmeden önce yedi gecen var: duvarın ardındaki her ses ya bir komşudur, ya da sen olmayı öğrenen bir şey.
 
-*A first-person, single-apartment, sound-based horror game. Seven nights. Listen to what is behind the wall, notice what is wrong, react the right way.*
+*A first-person, single-apartment, sound-based horror game. Seven nights before the moving truck comes: every sound beyond the wall is either a neighbor, or something learning to be you.*
 
 ## İndir / Download
 
@@ -18,17 +18,19 @@ Birinci şahıs, tek daireli, seslerle korku oyunu. 7 gece. Duvarın ardındaki 
 |---|---|
 | W A S D / ok tuşları | Yürü |
 | Fare | Etrafa bak |
-| Sol tık / E | Etkileşim (al, bırak, incele) |
-| Sol tık basılı + fare | Sürükleyerek aç (perde, musluk, fiş, çekmece, kapı, buzdolabı) |
+| Sol tık / E | Etkileşim (al, bırak, incele, kapıyı aç/kapat) |
+| 1 / 2 ya da fare | Ev işinde iki seçenekten birini seç |
+| Sol tık basılı + fare | Sürükleyerek aç (perde, musluk, fiş, çekmece, buzdolabı, sandık) |
 | Q / sağ tık | Elindekini yerine geri koy |
 | Space | Uyanınca doğrul |
-| W A S D / fare | Ruh tahtasında cevap (YES üst, NO alt, MAYBE sol, GOODBYE sağ) |
-| Tab | Kurallar defteri ve mesajlar |
+| Tab | Kiracı broşürü (beş tepki) ve "Bildiklerim" |
 | ESC | Duraklat / ayarlar |
 | F11 ya da Alt+Enter | Tam ekran |
+
+Beş tepki: duvara vur, Bay Dorsey'i ara, elektriği kes, banyo suyunu aç, hiçbir şey yapma. Komodinde iki mum var; her yanlış bir mumu söndürür.
 
 Kulaklık tavsiye edilir. Dil (EN / TR): ana menü → Ayarlar.
 
 ## Not
 
-Bu bir erken sürümdür (0.3.0). Bazı dokular ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler ve 3D modeller CC0 lisanslıdır; ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
+Bu bir erken sürümdür (0.5.0). Bazı dokular, görseller ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler ve 3D modeller CC0 lisanslıdır; ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
