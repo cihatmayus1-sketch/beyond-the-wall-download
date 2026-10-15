@@ -28,10 +28,10 @@ Birinci şahıs, tek daireli, seslerle korku oyunu. Nakliye kamyonu gelmeden ön
 | ESC | Duraklat / ayarlar |
 | F11 ya da Alt+Enter | Tam ekran |
 
-Beş tepki: duvara vur, Bay Dorsey'i ara, elektriği kes, banyo suyunu aç, hiçbir şey yapma. Komodinde iki mum var; her yanlış bir mumu söndürür.
+Altı tepki: duvara vur, Bay Dorsey'i ara, elektriği kes, radyoyu aç, banyo suyunu aç, hiçbir şey yapma. Komodinde iki mum var; her yanlış bir mumu söndürür.
 
 Kulaklık tavsiye edilir. Dil (EN / TR): ana menü → Ayarlar.
 
 ## Not
 
-Bu bir erken sürümdür (0.6.0). Bazı dokular, görseller ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler ve 3D modeller CC0 lisanslıdır; ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
+Bu bir erken sürümdür (0.6.1). Bazı dokular, görseller ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler ve 3D modeller CC0 lisanslıdır; ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
