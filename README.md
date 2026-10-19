@@ -34,4 +34,4 @@ Kulaklık tavsiye edilir. Dil (EN / TR): ana menü → Ayarlar.
 
 ## Not
 
-Bu bir erken sürümdür (0.10.0). Bazı dokular, görseller ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler CC0; 3D modeller Poly Haven (CC0) ve Tripo AI (CC BY 4.0); ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
+Bu bir erken sürümdür (0.10.1). Bazı dokular, görseller ve arayüz maketi yapay zekâ yardımıyla üretilmiştir. Yazı tipleri SIL OFL 1.1, sesler CC0; 3D modeller Poly Haven (CC0) ve Tripo AI (CC BY 4.0); ayrıntılar zip içindeki `licenses/` klasöründe. Kaynak kod bu depoda değildir.
